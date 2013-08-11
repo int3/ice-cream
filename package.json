@@ -1,0 +1,11 @@
+{
+    "name": "ice-cream",
+    "version": "1.0.0",
+    "bin": { "ice-cream": "./dessert.js" },
+    "dependencies": {
+        "esprima": "*",
+        "estraverse": "*",
+        "escodegen": "*",
+        "optimist": "*"
+    }
+}
