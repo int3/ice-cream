@@ -1,7 +1,11 @@
 {
     "name": "ice-cream",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "bin": { "ice-cream": "./dessert.js" },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/int3/ice-cream"
+    },
     "dependencies": {
         "esprima": "*",
         "estraverse": "*",
